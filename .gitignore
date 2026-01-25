@@ -7,3 +7,4 @@ dist/
 *.swo
 .vscode/
 .idea/
+LOCAL_CONFIG.md
