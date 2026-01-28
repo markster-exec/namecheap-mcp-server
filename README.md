@@ -254,3 +254,7 @@ To integrate with the metaMCP-RAG orchestration layer:
 ## License
 
 MIT
+
+---
+
+*Last updated: 2026-01-27 by Claude (Opus 4.5)*
